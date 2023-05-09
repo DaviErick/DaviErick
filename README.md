@@ -1,16 +1,36 @@
-### Hi there 👋
 
-<!--
-**DaviErick/DaviErick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi There 👋, Bem Vindo! 
 
-Here are some ideas to get you started:
+<img align="right" width="300" height="300" src="https://i.pinimg.com/originals/3a/fc/05/3afc05ad6ff20f864a452c5312ebb41e.gif">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Eu sou o Davi Erick!
+ 
+Estudante de engenharia de software apaixonado por tecnologia, desenvolvedor full-stack
+<br/>
+- Estou cursando Engenharia de software.
+
+- Desenvolvo projetos diariamente.
+
+- No tempo livre gosto de ler, ir para a academia, assistir filmes, séries e jogar xadrez!
+
+## Tecnologias que domino e pratico:
+
+- HTML
+- CSS
+- Javascript
+- PHP
+- Bootstrap       
+- React.js
+- Git e GitHub
+- NodeJS
+- MySQL
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davierick&layout=compact)](https://github.com/davierick/github-readme-stats)
+
+## Sobre mim:
+[![Github Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white=https://github.com/davierick)](https://github.com/davierick)
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white=https://https://www.linkedin.com/in/davi-erick-979805261/)](https://www.linkedin.com/in/davi-erick-979805261/)
+
+- Thanks for visiting. 
+
+- Enjoy it!! o/
