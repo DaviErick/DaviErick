@@ -5,7 +5,7 @@
 
 ## Eu sou o Davi Erick!
  
-Estudante de engenharia de software apaixonado por tecnologia, desenvolvedor full-stack
+Estudante de engenharia de software apaixonado por tecnologia
 <br/>
 - Estou cursando Engenharia de software.
 
@@ -18,11 +18,9 @@ Estudante de engenharia de software apaixonado por tecnologia, desenvolvedor ful
 - HTML
 - CSS
 - Javascript
-- PHP
-- Bootstrap       
+- PHP       
 - React.js
 - Git e GitHub
-- NodeJS
 - MySQL
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davierick&layout=compact)](https://github.com/davierick/github-readme-stats)
