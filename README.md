@@ -5,23 +5,19 @@
 
 ## Eu sou o Davi Erick!
  
-Estudante de engenharia de software apaixonado por tecnologia
+Estudante de engenharia de software
 <br/>
-- Estou cursando Engenharia de software.
 
-- Desenvolvo projetos diariamente.
-
-- No tempo livre gosto de ler, ir para a academia, assistir filmes, séries e jogar xadrez!
 
 ## Tecnologias que domino e pratico:
 
 - HTML
 - CSS
 - Javascript
-- PHP       
+- PHP (Básico)
 - React.js
 - Git e GitHub
-- MySQL
+- Java
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davierick&layout=compact)](https://github.com/davierick/github-readme-stats)
 
