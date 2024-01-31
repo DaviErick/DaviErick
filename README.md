@@ -14,6 +14,7 @@ Estudante de engenharia de software
 - HTML
 - CSS
 - Javascript
+- Banco de dados
 - PHP (Básico)
 - React.js
 - Git e GitHub
